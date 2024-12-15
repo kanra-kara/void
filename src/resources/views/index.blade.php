@@ -13,7 +13,7 @@
 <body>
   <header class="header">
     <div class="header__inner">
-      <!--hrefは押したときの次のURl-->
+      <!--hrefはContact Formを押したときの次のURl-->
       <a class="header__logo" href="/">
         Contact Form
       </a>
